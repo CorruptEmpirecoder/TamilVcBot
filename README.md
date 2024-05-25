@@ -31,8 +31,8 @@ Click the below button to watch the video tutorial on deploying
  [![Run on Repl.it](https://camo.githubusercontent.com/05149b448485553c6f14f6430a45c12dcc79ed3c/68747470733a2f2f7265706c2e69742f62616467652f6769746875622f6a61727669733231303930342f4a6172766973)](https://replit.com/@TamilBots/generate-pyrogram-session-string#main.py)
 
 <b> Deploy to Heroku </b>
-[![tamilbot logo](https://telegra.ph/file/6babc0f95a5362fd27872.jpg)](https://heroku.com/deploy?template=https://github.com/TamilBots/TamilVcBot)
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TAMILBOTS/TAMILVCBOT)
+[![tamilbot logo](https://telegra.ph/file/6babc0f95a5362fd27872.jpg)](https://heroku.com/deploy?template=https://github.com/CorruptEmpirecoder/TamilVcBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/CorruptEmpirecoder/TAMILVCBOT)
 
 - Enable the worker after deploy the project to Heroku
 - send `!ping`, `!uptime`, or `!sysinfo` from userbot account itself or its contacts to check if the userbot is running or not.
